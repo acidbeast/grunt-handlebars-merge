@@ -88,7 +88,7 @@ module.exports = function(grunt) {
 	};
 
 
-	grunt.registerMultiTask('handlebars', 'Compile handlebars templates and partials.', function() {
+	grunt.registerMultiTask('hbsmerge', 'Compile handlebars templates and partials.', function() {
 
 
 		var options = this.options({
