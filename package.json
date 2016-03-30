@@ -2,13 +2,10 @@
   "name": "grunt-handlebars-merge",
   "description": "Merge handlebars templates to file.",
   "version": "1.0.0",
-  "author": {
-    "name": "Dmitry Shlepkin",
-    "url": "http://dimko.org/"
-  },
+  "author": "Dmitry Shlepkin (http://dimko.org/)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/acidbeast/grunt-handlebars-merge"
+    "url": "git+https://github.com/acidbeast/grunt-handlebars-merge.git"
   },
   "license": "MIT",
   "engines": {
@@ -31,5 +28,8 @@
   "files": [
     "tasks"
   ],
-  "homepage": "https://github.com/acidbeast/grunt-handlebars-merge#readme"
+  "homepage": "https://github.com/acidbeast/grunt-handlebars-merge#readme",
+  "bugs": {
+    "url": "https://github.com/acidbeast/grunt-handlebars-merge/issues"
+  }
 }
