@@ -1,7 +1,7 @@
 {
   "name": "grunt-handlebars-merge",
   "description": "Merge handlebars templates to file.",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "author": "Dmitry Shlepkin (http://dimko.org/)",
   "repository": {
     "type": "git",
