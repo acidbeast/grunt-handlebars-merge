@@ -162,12 +162,14 @@ options: {
 }
 ```
 	
-#### clearHandlebarsComments
+#### templateQuotes
 Type: `Number`  
 Default: `2`
 
 Convert quotes inside templates:
+
 1 - Convert double quotes to single
+
 2 - Convert single quoters to double
 
 ```js
