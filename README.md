@@ -1,4 +1,4 @@
-# grunt-handlebars-merge v1.0.0 
+# grunt-handlebars-merge v0.0.1
 
 > Merge Handlebars templates to one file.
 
